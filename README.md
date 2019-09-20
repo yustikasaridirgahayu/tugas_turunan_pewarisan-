@@ -1,0 +1,1 @@
+# tugas_turunan_pewarisan-
